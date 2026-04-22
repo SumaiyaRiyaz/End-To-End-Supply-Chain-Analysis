@@ -4,7 +4,7 @@
 
 This **Supply Chain Analysis Project** demonstrates how data analysts solve real-world business problems using data-driven techniques.
 
-The project involves:
+The project covers:
 
 * Data cleaning and preprocessing
 * Exploratory Data Analysis (EDA)
@@ -18,7 +18,7 @@ We use Python libraries such as **Pandas**, **Matplotlib**, **Seaborn**, and **S
 ## 🎯 Objectives
 
 * Clean and preprocess raw supply chain data
-* Perform EDA to discover patterns and trends
+* Perform EDA to identify trends and patterns
 * Visualize key business metrics
 * Build a machine learning model for risk prediction
 * Generate actionable business insights
@@ -39,7 +39,7 @@ We use Python libraries such as **Pandas**, **Matplotlib**, **Seaborn**, and **S
 
 ## 📁 Project Structure
 
-```
+```id="g6u9p2"
 Supply-Chain-Analysis/
 │── DataCoSupplyChainDataset.csv
 │── end_to_end_supply_chain.ipynb
@@ -48,24 +48,34 @@ Supply-Chain-Analysis/
 
 ---
 
+## 📂 Dataset
+
+The dataset used in this project is hosted externally due to GitHub file size limitations:
+
+🔗 [Download Supply Chain Dataset](https://drive.google.com/file/d/1s5tXVDaMt0MhitNeIHqDxWVtVx70jxXZ/view?usp=sharing)
+
+> Note: Please download the dataset and place it in the project folder before running the notebook.
+
+---
+
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the Repository
 
-```bash
+```bash id="rm5q7k"
 git clone https://github.com/your-username/supply-chain-analysis.git
 cd supply-chain-analysis
 ```
 
 ### 2️⃣ Install Dependencies
 
-```bash
+```bash id="6kb6vd"
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
 ### 3️⃣ Run the Project
 
-```bash
+```bash id="k1u8bn"
 jupyter notebook
 ```
 
@@ -78,15 +88,15 @@ Open and run:
 
 * Identified delay patterns across months
 * Analyzed shipment performance trends
-* Detected high-risk products using ML model
-* Improved understanding of supply chain inefficiencies
+* Detected high-risk products using machine learning
+* Highlighted inefficiencies in the supply chain
 
 ---
 
 ## 🤖 Machine Learning
 
-* Model used: Classification model (Scikit-learn)
-* Evaluation metrics:
+* Model: Classification model (Scikit-learn)
+* Evaluation Metrics:
 
   * Accuracy
   * Precision
@@ -104,10 +114,9 @@ Open and run:
 ---
 
 
-
 ## 🌟 Conclusion
 
-This project showcases an **end-to-end data analysis pipeline**, from raw data to insights and predictive modeling, making it a strong addition to any data portfolio.
+This project showcases an **end-to-end data analysis pipeline**, from raw data to insights and predictive modeling. It is a strong portfolio project for aspiring data analysts and data scientists.
 
 ---
 
@@ -117,4 +126,5 @@ Feel free to reach out for feedback or collaboration!
 
 ---
 
-⭐ If you like this project, don't forget to **star the repository**!
+⭐ If you found this project helpful, don’t forget to **star the repository**!
+
